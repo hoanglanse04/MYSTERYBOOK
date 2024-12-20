@@ -5635,19 +5635,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hoang\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hệ quản trị CSDL\\MisteryBook\\MisteryBook\\MisteryBook.csproj",
+      "projectUniqueName": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\MisteryBook.csproj",
       "projectName": "MisteryBook",
-      "projectPath": "D:\\Hệ quản trị CSDL\\MisteryBook\\MisteryBook\\MisteryBook.csproj",
-      "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\Hệ quản trị CSDL\\MisteryBook\\MisteryBook\\obj\\",
+      "projectPath": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\MisteryBook.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5707,7 +5707,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MisteryBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83359066c861c3c1c2afb308081046f0f83b9ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("MisteryBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MisteryBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
