@@ -1,8 +1,43 @@
+@model List<MisteryBook.Models.HoaDonMua>
+
+
+
 @{
     ViewData["Title"] = "Tra cứu đơn hàng";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 @{
 }
+@if (Model != null && Model.Any())
+{
+   <h1>Danh sách sách</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Số Hóa Đơn mua </th>
+            <th>MaNV</th>
+            <th>MaKh</th>
+            <th>NgayMua</th>
+            <th>MucGiamGia</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var donhang in Model)
+        {
+            <tr>
+                <td>@donhang.SoHdmua</td>
+                <td>@donhang.MaNv</td>
+                <td>@donhang.MaKh</td>
+                <td>@donhang.NgayMua</td>
+                <td>@donhang.MucGiamGia</td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
+else
+{
+    <p>Không có dữ liệu.</p>
+}
 
-<h1>Trang tra cứu đơn hàng </h1>
+
