@@ -1,12 +1,36 @@
 {
   "Files": [
     {
-      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MisteryBook.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MisteryBook.bundle.scp.css"
-    },
-    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\categories_responsive.css",
+      "PackagePath": "staticwebassets\\css\\categories_responsive.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\categories_styles.css",
+      "PackagePath": "staticwebassets\\css\\categories_styles.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\css\\contact_responsive.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\contact_styles.css",
+      "PackagePath": "staticwebassets\\css\\contact_styles.css"
     },
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\demo.css",
@@ -37,6 +61,10 @@
       "PackagePath": "staticwebassets\\css\\kaiadmin.min.css"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\main_styles.css",
+      "PackagePath": "staticwebassets\\css\\main_styles.css"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\plugins.css",
       "PackagePath": "staticwebassets\\css\\plugins.css"
     },
@@ -49,6 +77,18 @@
       "PackagePath": "staticwebassets\\css\\plugins.min.css"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\single_responsive.css",
+      "PackagePath": "staticwebassets\\css\\single_responsive.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\single_styles.css",
+      "PackagePath": "staticwebassets\\css\\single_styles.css"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -57,8 +97,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\85.jpeg",
+      "PackagePath": "staticwebassets\\img\\85.jpeg"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\arashmil.jpg",
       "PackagePath": "staticwebassets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\bannermistery.png",
+      "PackagePath": "staticwebassets\\img\\bannermistery.png"
     },
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\bg-404.jpeg",
@@ -1225,6 +1273,18 @@
       "PackagePath": "staticwebassets\\img\\flags\\zw.png"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\image_215961 (1).webp",
+      "PackagePath": "staticwebassets\\img\\image_215961 (1).webp"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\image_215961.webp",
+      "PackagePath": "staticwebassets\\img\\image_215961.webp"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\images.jpg",
+      "PackagePath": "staticwebassets\\img\\images.jpg"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\img-shadow.png",
       "PackagePath": "staticwebassets\\img\\img-shadow.png"
     },
@@ -1325,6 +1385,10 @@
       "PackagePath": "staticwebassets\\img\\mlane.jpg"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\nghi-giau-lam-giau-1-1.jpg",
+      "PackagePath": "staticwebassets\\img\\nghi-giau-lam-giau-1-1.jpg"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\img\\profile.jpg",
       "PackagePath": "staticwebassets\\img\\profile.jpg"
     },
@@ -1393,6 +1457,14 @@
       "PackagePath": "staticwebassets\\img\\visa.svg"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\categories_custom.js",
+      "PackagePath": "staticwebassets\\js\\categories_custom.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\contact_custom.js",
+      "PackagePath": "staticwebassets\\js\\contact_custom.js"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
     },
@@ -1405,8 +1477,16 @@
       "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\demo.js",
       "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
     },
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\kaiadmin.js",
@@ -1531,6 +1611,10 @@
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\setting-demo2.js",
       "PackagePath": "staticwebassets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\single_custom.js",
+      "PackagePath": "staticwebassets\\js\\single_custom.js"
     },
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\js\\site.js",
@@ -1763,6 +1847,214 @@
     {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\themify-icons.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MisteryBook.Microsoft.AspNetCore.StaticWebAssets.props",
