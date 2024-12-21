@@ -16,7 +16,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
 // Cấu hình DbContext
-builder.Services.AddDbContext<QuanLyCuaHangSachContext>(options =>
+builder.Services.AddDbContext<WebsiteBanSachContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
@@ -53,7 +53,7 @@ try
 {
     using (var scope = app.Services.CreateScope())
     {
-        var context = scope.ServiceProvider.GetRequiredService<QuanLyCuaHangSachContext>();
+        var context = scope.ServiceProvider.GetRequiredService<WebsiteBanSachContext>();
         if (context.Database.CanConnect())
         {
             app.Logger.LogInformation("Kết nối cơ sở dữ liệu thành công.");
@@ -69,5 +69,5 @@ catch (Exception ex)
     app.Logger.LogError("Lỗi khi kiểm tra kết nối cơ sở dữ liệu: " + ex.Message);
 }
 
-// Chạy ứng dụng
+
 app.Run();

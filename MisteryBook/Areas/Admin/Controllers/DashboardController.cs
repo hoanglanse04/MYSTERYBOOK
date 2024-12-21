@@ -8,8 +8,8 @@ namespace MisteryBook.Areas.Admin.Controllers
         [Route("admin/dashboard")]
         public IActionResult Index()
         {
-            
-            return View("~/Areas/Admin/Views/DashBoard/Index.cshtml");
+             ViewData["ActiveMenu"] = "TrangChu";          
+            return View();
         }
     }
 }

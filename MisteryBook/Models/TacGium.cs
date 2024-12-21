@@ -5,9 +5,15 @@ namespace MisteryBook.Models;
 
 public partial class TacGium
 {
-    public string MaTg { get; set; } = null!;
+    public int MaTacGia { get; set; }
 
-    public string? TenTg { get; set; }
+    public string TenTacGia { get; set; } = null!;
 
-    public virtual ICollection<Sach> MaSaches { get; set; } = new List<Sach>();
+    public DateOnly? NgaySinh { get; set; }
+
+    public string? QueQuan { get; set; }
+
+    public string? GhiChu { get; set; }
+
+    public virtual ICollection<Sach> Saches { get; set; } = new List<Sach>();
 }

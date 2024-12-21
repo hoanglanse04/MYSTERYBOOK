@@ -5,15 +5,15 @@ namespace MisteryBook.Models;
 
 public partial class NhaXuatBan
 {
-    public string MaNxb { get; set; } = null!;
+    public int MaNxb { get; set; }
 
-    public string? TenNxb { get; set; }
-
-    public string? Sdt { get; set; }
+    public string TenNxb { get; set; } = null!;
 
     public string? DiaChi { get; set; }
 
-    public virtual ICollection<HoaDonNhap> HoaDonNhaps { get; set; } = new List<HoaDonNhap>();
+    public string? Sdt { get; set; }
+
+    public string? Email { get; set; }
 
     public virtual ICollection<Sach> Saches { get; set; } = new List<Sach>();
 }

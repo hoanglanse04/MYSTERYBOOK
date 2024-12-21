@@ -5,23 +5,33 @@ namespace MisteryBook.Models;
 
 public partial class Sach
 {
-    public string MaSach { get; set; } = null!;
+    public int MaSach { get; set; }
 
-    public string? TenSach { get; set; }
+    public string TenSach { get; set; } = null!;
 
-    public string MaNxb { get; set; } = null!;
+    public int MaLoai { get; set; }
 
-    public string? TheLoai { get; set; }
+    public int? MaTacGia { get; set; }
 
-    public int? SoLuong { get; set; }
+    public int? MaNxb { get; set; }
 
-    public double? GiaBan { get; set; }
+    public int? NamXuatBan { get; set; }
 
-    public virtual ICollection<ChiTietDonMua> ChiTietDonMuas { get; set; } = new List<ChiTietDonMua>();
+    public decimal GiaBan { get; set; }
+
+    public int SoLuongTon { get; set; }
+
+    public string? MoTa { get; set; }
+
+    public string? HinhAnh { get; set; }
+
+    public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
 
     public virtual ICollection<ChiTietDonNhap> ChiTietDonNhaps { get; set; } = new List<ChiTietDonNhap>();
 
-    public virtual NhaXuatBan MaNxbNavigation { get; set; } = null!;
+    public virtual LoaiSach MaLoaiNavigation { get; set; } = null!;
 
-    public virtual ICollection<TacGium> MaTgs { get; set; } = new List<TacGium>();
+    public virtual NhaXuatBan? MaNxbNavigation { get; set; }
+
+    public virtual TacGium? MaTacGiaNavigation { get; set; }
 }

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MisteryBook.Models;
+
 using System.Diagnostics;
 
 namespace MisteryBook.Controllers
@@ -23,10 +23,10 @@ namespace MisteryBook.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        // [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        // public IActionResult Error()
+        // {
+        //     return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        // }
     }
 }
