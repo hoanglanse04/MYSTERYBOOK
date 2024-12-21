@@ -1036,9 +1036,7 @@ D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\staticwebassets\msbui
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MisteryBook.props
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MisteryBook.props
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\staticwebassets.pack.json
-D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\scopedcss\bundle\MisteryBook.styles.css
-D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\scopedcss\projectbundle\MisteryBook.bundle.scp.css
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\MisteryB.3AE66536.Up2Date
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\MisteryBook.dll
 D:\CodeProject\c#\MYSTERYBOOK\MisteryBook\obj\Debug\net8.0\refint\MisteryBook.dll
