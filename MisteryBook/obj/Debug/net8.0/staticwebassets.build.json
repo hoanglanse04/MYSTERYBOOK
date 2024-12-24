@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XENx9z626ijH1lFfBj65lPG6Bk7aCQtwYz+UU95jugs=",
+  "Hash": "PggVRcgjjYZmVgHh7HMzcTYvOkhwY4gMUswEKxJDkr8=",
   "Source": "MisteryBook",
   "BasePath": "_content/MisteryBook",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\fonts.min.css"
+    },
+    {
+      "Identity": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\header.css",
+      "SourceId": "MisteryBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\",
+      "BasePath": "_content/MisteryBook",
+      "RelativePath": "css/header.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\header.css"
     },
     {
       "Identity": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\kaiadmin.css",

@@ -23,7 +23,7 @@ namespace MisteryBook.Areas.Admin.Controllers
             return View();
         }
 
-        public IActionResult TaoDonHang()
+        public IActionResult DanhSachDonHang()
         {
             ViewData["ActiveMenu"] = "DonHang";
             return View();

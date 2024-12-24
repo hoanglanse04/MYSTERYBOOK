@@ -22,6 +22,6 @@ public partial class DonHang
     public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
 
     public virtual User MaKhNavigation { get; set; } = null!;
-
+ 
     public virtual User? MaNvNavigation { get; set; }
 }

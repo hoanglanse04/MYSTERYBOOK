@@ -11,6 +11,7 @@
     .fas {
         font-size: 14px; /* Điều chỉnh kích thước icon */
     }
+   
 </style>
 @{
     ViewData["Title"] = "Tra cứu đơn hàng";
@@ -21,71 +22,77 @@
 @if (Model != null && Model.Any())
 {
     
-  <div class="page-inner">
-            <div class="page-header">
-                <h3 class="fw-bold mb-3">Tra cứu đơn hàng</h3>
-                <ul class="breadcrumbs mb-3">
-                    <li class="nav-home">
-                        <a href="#">
-                            <i class="fas fa-user-circle"></i>
-                        </a>
-                    </li>
-                    <li class="separator">
-                        <i class="icon-arrow-right">></i>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#">Đơn hàng</a>
-                    </li>
-                    <li class="separator">
-                        ><i class="icon-arrow-right"></i>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#">Tra cứu đơn hàng</a>
-                    </li>
-                </ul>
-            </div>
-       
+ <div class="page-inner">
+    <div class="page-header border-bottom border-2 mb-4">
+        <h4 class="fw-bold mb-3">Tra cứu đơn hàng</h4>
+        <ul class="breadcrumbs mb-3 d-flex align-items-center">
+            <li class="nav-home me-2">
+                <a href="#">
+                    <i class="fas fa-user-circle"></i>
+                </a>
+            </li>
+            <li class="separator me-2">
+                <i class="icon-arrow-right">></i>
+            </li>
+            <li class="nav-item me-2">
+                <a href="#">Đơn hàng</a>
+            </li>
+            <li class="separator me-2">
+                <i class="icon-arrow-right">></i>
+            </li>
+            <li class="nav-item">
+                <a href="#">Tra cứu đơn hàng</a>
+            </li>
+        </ul>
+    </div>
+
 
 
 <div class="filter-section">
     <form method="get" >
-        
-        <div class="row mb-3">
-        
-            <div class="col-md-1 d-flex align-items-end">
-               <h3 class="" >Bộ lọc:</h3>    
-            </div>
-            <div class="col-md-2">
-                <label for="TrangThai" class="form-label">Trạng Thái</label>
-                <select id="TrangThai" name="TrangThai" class="form-select">
-                    <option value="">Tất cả</option>
-                    <option value="Chờ Xử Lý">Chờ Xử Lý</option>
-                    <option value="Đang Xử Lý">Đang Xử Lý</option>
-                    <option value="Thành Công">Thành Công</option>
-                    <option value="Thất Bại">Thất Bại</option>
-                    <option value="Đang giao hàng">Đang giao hàng</option>
-                </select>
-            </div>
+        <div class="row mb-3 d-flex justify-content-between">
+                <div class="col-md-8 row d-flex">
+                    <div class="col-2 d-flex align-items-end">
+                        <h3>Bộ lọc:</h3>    
+                    </div>
+                    <div class="col">
+                        <label for="TrangThai" class="form-label">Trạng Thái</label>
+                        <select id="TrangThai" name="TrangThai" class="form-select ">
+                            <option value="">Tất cả</option>
+                            <option value="Chờ Xử Lý">Chờ Xử Lý</option>
+                            <option value="Đang Xử Lý">Đang Xử Lý</option>
+                            <option value="Thành Công">Thành Công</option>
+                            <option value="Thất Bại">Thất Bại</option>
+                            <option value="Đang giao hàng">Đang giao hàng</option>
+                        </select>
+                    </div>
 
-           
-            <div class="col-md-2">
-                <label for="ThoiGian" class="form-label">Từ Ngày</label>
-                <input type="date" id="ThoiGian" name="ThoiGian" class="form-control" />
-            </div>
-            
-            <div class="col-md-2">
-                <label for="ThoiGian" class="form-label">Đến Ngày</label>
-                <input type="date" id="ThoiGian" name="ThoiGian" class="form-control" />
-            </div>
+                    <div class="col">
+                        <label for="ThoiGianFrom" class="form-label">Từ Ngày</label>
+                        <input type="date" id="ThoiGianFrom" name="ThoiGianFrom" class="form-control " />
+                    </div>
+                    
+                    <div class="col">
+                        <label for="ThoiGianTo" class="form-label">Đến Ngày</label>
+                        <input type="date" id="ThoiGianTo" name="ThoiGianTo" class="form-control " />
+                    </div>
+                </div>        
 
-             <div class="col-md-3">
+            <div class="col-md-4">
                 <label for="Search" class="form-label">Tìm Kiếm</label>
-                <input type="text" id="Search" name="Search" class="form-control" placeholder="Tìm mã đơn hàng, khách hàng..." />
+                <div class="d-flex align-items-end">
+                    <input type="text" id="Search" name="Search" class="form-control" placeholder="Tìm mã đơn hàng, khách hàng..." />
+                    <button type="button" class="btn btn-warning mx-2">
+                        Tìm
+                    </button>    
+                </div>
             </div>
-        </div>
+</div>
+
+       
     </form>
 </div>
-<div class="mb-3">
+<div class="mt-4 mb-3">
     <a href="" class="btn btn-success">
         Thêm Mới Đơn Hàng
     </a>

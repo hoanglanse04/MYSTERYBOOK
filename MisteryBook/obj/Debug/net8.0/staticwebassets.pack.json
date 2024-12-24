@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\css\\fonts.min.css"
     },
     {
+      "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
       "Id": "D:\\CodeProject\\c#\\MYSTERYBOOK\\MisteryBook\\wwwroot\\css\\kaiadmin.css",
       "PackagePath": "staticwebassets\\css\\kaiadmin.css"
     },

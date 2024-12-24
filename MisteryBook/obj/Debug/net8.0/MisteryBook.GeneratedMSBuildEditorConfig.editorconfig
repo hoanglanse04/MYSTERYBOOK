@@ -46,12 +46,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9uSGFuZ1xCYW9DYW9UaG9uZ0tlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Areas/Admin/Views/DonHang/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9uSGFuZ1xJbmRleC5jc2h0bWw=
+[D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Areas/Admin/Views/DonHang/DanhSachDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9uSGFuZ1xEYW5oU2FjaERvbkhhbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Areas/Admin/Views/DonHang/TaoDonHang.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9uSGFuZ1xUYW9Eb25IYW5nLmNzaHRtbA==
+[D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Areas/Admin/Views/DonHang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRG9uSGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Areas/Admin/Views/DonHang/TraCuuDonHang.cshtml]
@@ -104,6 +104,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Views/Single/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CodeProject/c\#/MYSTERYBOOK/MisteryBook/Views/_ViewImports.cshtml]
